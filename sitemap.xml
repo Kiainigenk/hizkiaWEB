@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/</loc>
+    <loc>http://kiainigenk.github.io/hizkiaWEB/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/post/</loc>
+    <loc>http://kiainigenk.github.io/hizkiaWEB/post/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/pengantar_welcome_/</loc>
+    <loc>http://kiainigenk.github.io/hizkiaWEB/tags/pengantar_welcome_/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/read-about-me/</loc>
+    <loc>http://kiainigenk.github.io/hizkiaWEB/read-about-me/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/read_about_me/</loc>
+    <loc>http://kiainigenk.github.io/hizkiaWEB/tags/read_about_me/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>http://kiainigenk.github.io/hizkiaWEB/tags/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>http://kiainigenk.github.io/hizkiaWEB/categories/</loc>
   </url>
 </urlset>
